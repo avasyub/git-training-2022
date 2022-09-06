@@ -5,3 +5,4 @@
 
 # Trainees
 - Abhishek Dhule web dev
+- Grejo Joby
