@@ -4,4 +4,5 @@
 - abhishek 
 
 # Trainees
-- Abhishek Dhule web dev
+- Daniyal
+
