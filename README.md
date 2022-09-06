@@ -1,7 +1,9 @@
 # Trainers
+
 - vinit
-- avasyu 
-- abhishek 
+- avasyu
+- abhishek
 
 # Trainees
-- 
+
+- Murtuza Bakir
