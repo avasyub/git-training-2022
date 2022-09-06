@@ -4,5 +4,4 @@
 - abhishek 
 
 # Trainees
-- Abhishek Dhule
-- Random 
+- Avinash Kumar Jha
