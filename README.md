@@ -5,3 +5,5 @@
 
 # Trainees
 - Abhishek Dhule web dev
+- Harshith Salian
+
