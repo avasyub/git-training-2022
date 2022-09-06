@@ -5,5 +5,4 @@
 - abhishek
 
 # Trainees
-
 - Murtuza Bakir
