@@ -4,5 +4,5 @@
 - abhishek 
 
 # Trainees
-- Abhishek Dhule
-- Mohammmad Amaan
+- Abhishek Dhule web dev
+- Mohammad Amaan
